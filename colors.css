@@ -1,0 +1,104 @@
+:root {
+    --background-color: rgb(84, 84, 84);
+
+    /* Colores tipos pokemon*/
+
+    --normal: #CA9AA8;
+    --fire: #fd4c5a;
+    --bug: #399A50;
+    --poison: #9C6AD8;
+    --flying: #93B2C7;
+    --dark: #585A77;
+    --psychic: #F71E91;
+    --ghost: #906792;
+    --dragon: #64CCD9;
+    --rock: #8B3E21;
+    --grass: #26CC4E;
+    --electric: #FDFA70;
+    --steel: #4ABA94;
+    --ground: #6d491f;
+    --fairy: #ea1367;
+    --water: #85a7fb;
+    --ice: #D9EBFD;
+    --fighting: #ef6236;
+
+}
+
+.all {
+    background-color: var(--white-color);
+}
+
+.normal {
+    background-color: var(--normal);
+}
+
+.fire {
+    background-color: var(--fire);
+}
+
+.bug {
+    background-color: var(--bug);
+}
+
+.poison {
+    background-color: var(--poison);
+}
+
+.flying {
+    background-color: var(--flying);
+}
+
+.dark {
+    background-color: var(--dark);
+    color: white;
+}
+
+.psychic{
+    background-color: var(--psychic);
+}
+
+.ghost {
+    background-color: var(--ghost);
+    color: white;
+}
+.dragon {
+    background-color: var(--dragon);
+}
+
+.rock {
+    background-color: var(--rock);
+    color: white;
+}
+
+.grass {
+    background-color: var(--grass);
+}
+
+.electric {
+    background-color: var(--electric);
+}
+
+.steel {
+    background-color: var(--steel);
+}
+
+.ground {
+    background-color: var(--ground);
+    color: white;
+}
+
+.fairy {
+    background-color: var(--fairy);
+}
+
+.water {
+    background-color: var(--water);
+}
+
+.ice {
+    background-color: var(--ice);
+}
+
+.fighting {
+    background-color: var(--fighting);
+}
